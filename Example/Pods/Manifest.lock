@@ -1,0 +1,16 @@
+PODS:
+  - UIComponents (0.1.0)
+
+DEPENDENCIES:
+  - UIComponents (from `../`)
+
+EXTERNAL SOURCES:
+  UIComponents:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UIComponents: 75c7e65d0365ecc0399c264ecd293cf99edd3744
+
+PODFILE CHECKSUM: e32842e593d8419e2eef19e41c0619055a79f929
+
+COCOAPODS: 1.11.3
