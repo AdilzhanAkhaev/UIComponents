@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'UIComponents_Example' do
+  pod 'UIComponents', :path => '../'
+
+  target 'UIComponents_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
